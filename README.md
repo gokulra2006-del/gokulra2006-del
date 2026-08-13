@@ -1,25 +1,97 @@
-<h1 align="center">Hi there, I'm Gokul Ramachandran 👋</h1>
+<div align="center">
+  <h1 align="center">Hi there, I'm Gokul R 👋</h1>
+  <h3>Full-Stack Web Developer | B.Tech CSE @ VIT Chennai (2028)</h3>
+  
+  <p align="center">
+    <a href="https://www.linkedin.com/in/gokul-ramachandran-513299327/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:gokulra2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/gokulra2006-del/Portffolio"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/gokul-ramachandran-513299327/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gokulra2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/gokulra2006-del/Portffolio"><img src="https://img.shields.io/badge/Portfolio-255E63?logo=About.me&logoColor=white" alt="Portfolio" /></a>
-</p>
+---
 
 ### 👨🏻‍💻 About Me
-- 🔭 I'm currently building impactful full-stack applications.
-- 🌱 I’m constantly learning new modern web technologies and AI integration.
-- 📫 How to reach me: **[gokulra2006@gmail.com](mailto:gokulra2006@gmail.com)**
-- 💼 Check out my [Portfolio Repository](https://github.com/gokulra2006-del/Portffolio).
 
-### 🚀 Tech Stack
-- **Frontend:** React, HTML5, CSS3, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools & Platforms:** Git, GitHub
+As a passionate **Full-Stack Web Developer** and current B.Tech Computer Science student at VIT Chennai (CGPA: 8.03/10), I specialize in building modern, scalable, and responsive web applications. I thrive at the intersection of robust backend logic and intuitive frontend user experiences.
 
-<br/>
+- 💼 I recently completed a **Full Stack Web Development Industry Internship** at *Incrix Techlutions LLP*, where I honed my skills in production-grade application development.
+- 🏆 **2nd Place Winner** at the HackWarts Hackathon.
+- 🌱 I’m currently focused on advanced React patterns, system design, and **AI/LLM integrations**.
+- 👯 I’m actively looking to collaborate on impactful open-source projects.
+- 📫 Reach out to me at: **[gokulra2006@gmail.com](mailto:gokulra2006@gmail.com)**
+
+---
+
+### 🚀 Technical Skills
+
+<details open>
+  <summary><b>Languages & Core</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Frontend Development</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Backend & Databases</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Tools & Platforms</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</details>
+
+---
+
+### 🔥 Featured Projects
+
+- 🛒 **[Organic Store](https://github.com/gokulra2006-del/organic-store)**: A robust Full-Stack E-Commerce platform built with React.js, Node.js, Express.js, and MongoDB.
+- 🎓 **[AI-Powered College ERP (Friday AI)](https://github.com/gokulra2006-del/Ai-Learning-Platform)**: A smart learning platform incorporating REST APIs and a complete MERN stack architecture.
+- 🤖 **[AI Code Review Assistant](https://github.com/gokulra2006-del/codereview-ai)**: A developer productivity tool utilizing LLM APIs to provide automated, intelligent code reviews.
+- 🚨 **Alert-System**: A TypeScript-based rapid campus alert platform for emergency communications.
+- 🛡️ **Sentinel-AI**: An AI-powered security monitoring platform ensuring comprehensive situational awareness.
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulra2006-del&show_icons=true&hide_border=true&theme=radium" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gokulra2006-del&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Gokul's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulra2006-del&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Gokul's GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulra2006-del&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </div>
