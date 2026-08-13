@@ -89,9 +89,15 @@ As a passionate **Full-Stack Web Developer** and current B.Tech Computer Science
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gokulra2006-del&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Gokul's GitHub Stats" />
+  <a href="https://github.com/gokulra2006-del">
+    <img src="https://github-readme-stats.vercel.app/api?username=gokulra2006-del&show_icons=true&theme=tokyonight&hide_border=true" alt="Gokul's GitHub Stats" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulra2006-del&theme=transparent&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="Gokul's GitHub Streak" />
+  <a href="https://github.com/gokulra2006-del">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulra2006-del&theme=tokyonight&hide_border=true" alt="Gokul's GitHub Streak" />
+  </a>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulra2006-del&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <a href="https://github.com/gokulra2006-del">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulra2006-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </div>
