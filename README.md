@@ -13,13 +13,22 @@
 
 ### 👨🏻‍💻 About Me
 
-As a passionate **Full-Stack Web Developer** and current B.Tech Computer Science student at VIT Chennai (CGPA: 8.03/10), I specialize in building modern, scalable, and responsive web applications. I thrive at the intersection of robust backend logic and intuitive frontend user experiences.
+I'm a Full-Stack Web Developer and B.Tech Computer Science student at VIT Chennai (CGPA: 8.03/10). I build functional, full-stack web applications—ranging from the `organic-store` e-commerce platform to an AI-powered college ERP and an LLM-driven code review assistant. I like wiring up clean user interfaces to heavy-lifting backends.
 
-- 💼 I recently completed a **Full Stack Web Development Industry Internship** at *Incrix Techlutions LLP*, where I honed my skills in production-grade application development.
-- 🏆 **2nd Place Winner** at the HackWarts Hackathon.
-- 🌱 I’m currently focused on advanced React patterns, system design, and **AI/LLM integrations**.
-- 👯 I’m actively looking to collaborate on impactful open-source projects.
+- 💼 Shipped production-grade code during my Full Stack Web Development internship at Incrix Techlutions LLP.
+- 🏆 Took 2nd Place at the HackWarts Hackathon.
 - 📫 Reach out to me at: **[gokulra2006@gmail.com](mailto:gokulra2006@gmail.com)**
+
+### 🔭 Currently Learning / Exploring
+
+- ⚛️ **Advanced React Patterns**
+- 🏗️ **System Design Fundamentals**
+- 🤖 **LLM/AI API Integration Patterns**
+- 🐳 **DevOps Basics** (Docker, CI/CD pipelines)
+
+### 🤝 How I Work
+
+I am actively open to full-stack engineering roles. I love collaborating on AI-integrated web projects, taking end-to-end ownership of the MERN stack architecture, and writing clean, maintainable code.
 
 ---
 
@@ -78,9 +87,18 @@ As a passionate **Full-Stack Web Developer** and current B.Tech Computer Science
 
 ### 🔥 Featured Projects
 
-- 🛒 **[Organic Store](https://github.com/gokulra2006-del/organic-store)**: A robust Full-Stack E-Commerce platform built with React.js, Node.js, Express.js, and MongoDB.
-- 🎓 **[AI-Powered College ERP (Friday AI)](https://github.com/gokulra2006-del/Ai-Learning-Platform)**: A smart learning platform incorporating REST APIs and a complete MERN stack architecture.
-- 🤖 **[AI Code Review Assistant](https://github.com/gokulra2006-del/codereview-ai)**: A developer productivity tool utilizing LLM APIs to provide automated, intelligent code reviews.
+- 🛒 **[Organic Store](https://github.com/gokulra2006-del/organic-store)** <br/>
+  <img src="https://img.shields.io/github/languages/top/gokulra2006-del/organic-store?style=for-the-badge&color=255E63" alt="Top Language" /> <img src="https://img.shields.io/github/last-commit/gokulra2006-del/organic-store?style=for-the-badge&color=255E63" alt="Last Commit" /> <img src="https://img.shields.io/github/repo-size/gokulra2006-del/organic-store?style=for-the-badge&color=255E63" alt="Repo Size" /> <br/>
+  A robust Full-Stack E-Commerce platform built with React.js, Node.js, Express.js, and MongoDB.
+
+- 🎓 **[AI-Powered College ERP (Friday AI)](https://github.com/gokulra2006-del/Ai-Learning-Platform)** <br/>
+  <img src="https://img.shields.io/github/languages/top/gokulra2006-del/Ai-Learning-Platform?style=for-the-badge&color=255E63" alt="Top Language" /> <img src="https://img.shields.io/github/last-commit/gokulra2006-del/Ai-Learning-Platform?style=for-the-badge&color=255E63" alt="Last Commit" /> <img src="https://img.shields.io/github/repo-size/gokulra2006-del/Ai-Learning-Platform?style=for-the-badge&color=255E63" alt="Repo Size" /> <br/>
+  A smart learning platform incorporating REST APIs and a complete MERN stack architecture.
+
+- 🤖 **[AI Code Review Assistant](https://github.com/gokulra2006-del/codereview-ai)** <br/>
+  <img src="https://img.shields.io/github/languages/top/gokulra2006-del/codereview-ai?style=for-the-badge&color=255E63" alt="Top Language" /> <img src="https://img.shields.io/github/last-commit/gokulra2006-del/codereview-ai?style=for-the-badge&color=255E63" alt="Last Commit" /> <img src="https://img.shields.io/github/repo-size/gokulra2006-del/codereview-ai?style=for-the-badge&color=255E63" alt="Repo Size" /> <br/>
+  A developer productivity tool utilizing LLM APIs to provide automated, intelligent code reviews.
+
 - 🚨 **Alert-System**: A TypeScript-based rapid campus alert platform for emergency communications.
 - 🛡️ **Sentinel-AI**: An AI-powered security monitoring platform ensuring comprehensive situational awareness.
 
@@ -100,4 +118,21 @@ As a passionate **Full-Stack Web Developer** and current B.Tech Computer Science
   <a href="https://github.com/gokulra2006-del">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulra2006-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
+</div>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gokulra2006-del/gokulra2006-del/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gokulra2006-del/gokulra2006-del/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gokulra2006-del/gokulra2006-del/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <p><em>Built with ❤️ by Gokul R</em></p>
+  <img src="https://komarev.com/ghpvc/?username=gokulra2006-del&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 </div>
