@@ -104,21 +104,6 @@ I am actively open to full-stack engineering roles. I love collaborating on AI-i
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/gokulra2006-del">
-    <img src="https://github-readme-stats.vercel.app/api?username=gokulra2006-del&show_icons=true&theme=tokyonight&hide_border=true" alt="Gokul's GitHub Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/gokulra2006-del">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokulra2006-del&theme=tokyonight&hide_border=true" alt="Gokul's GitHub Streak" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/gokulra2006-del">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulra2006-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
 
 ### 🐍 Contribution Graph
 
