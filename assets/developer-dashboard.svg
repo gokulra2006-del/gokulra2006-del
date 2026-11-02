@@ -1,26 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Animated developer dashboard: Gokul R, software engineering, AI systems and cloud security learning">
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="470" viewBox="0 0 1100 470" role="img" aria-label="Animated mission control dashboard for Gokul R: developer, AI builder and cloud security learner">
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071322"/><stop offset="1" stop-color="#0d2031"/></linearGradient>
+<linearGradient id="bar"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".17"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<clipPath id="scan"><circle cx="879" cy="242" r="105"/></clipPath>
 <style>
-text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e5edf8}.muted{fill:#8fa5be}.accent{fill:#61dafb}.green{fill:#48e0a4}.panel{fill:#121d2c;stroke:#293a4f;stroke-width:1}.pulse{animation:pulse 2.4s ease-in-out infinite}.blink{animation:blink 1s steps(2) infinite}.slide{animation:slide 5s ease-in-out infinite alternate}.flow{stroke-dasharray:7 9;animation:dash 2s linear infinite}@keyframes pulse{50%{opacity:.25}}@keyframes blink{50%{opacity:0}}@keyframes slide{to{transform:translateX(90px)}}@keyframes dash{to{stroke-dashoffset:-32}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e6f1ff}.muted{fill:#90a8be}.cyan{fill:#67e8f9}.mint{fill:#6ee7b7}.panel{fill:#0f2235;stroke:#2c4a61;stroke-width:1.2}.pulse{animation:pulse 2.4s ease-in-out infinite}.blink{animation:blink 1.1s steps(2) infinite}.spin{transform-origin:879px 242px;animation:spin 7s linear infinite}.dash{stroke-dasharray:8 12;animation:dash 3s linear infinite}.float{animation:float 4s ease-in-out infinite alternate}.sweep{animation:sweep 4s ease-in-out infinite}.bars rect{transform-box:fill-box;transform-origin:center bottom;animation:bars 2.2s ease-in-out infinite alternate}.bars rect:nth-child(2){animation-delay:.3s}.bars rect:nth-child(3){animation-delay:.6s}.bars rect:nth-child(4){animation-delay:.9s}@keyframes pulse{50%{opacity:.25}}@keyframes blink{50%{opacity:0}}@keyframes spin{to{transform:rotate(360deg)}}@keyframes dash{to{stroke-dashoffset:-40}}@keyframes float{to{transform:translateY(-6px)}}@keyframes sweep{50%{transform:translateX(90px)}}@keyframes bars{to{transform:scaleY(.42)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
-<rect width="1000" height="360" rx="20" fill="#0b1220"/>
-<rect x="1" y="1" width="998" height="358" rx="19" fill="none" stroke="#2c3c53"/>
-<circle cx="30" cy="27" r="6" fill="#ff6675"/><circle cx="52" cy="27" r="6" fill="#ffcb65"/><circle cx="74" cy="27" r="6" fill="#48e0a4"/>
-<text x="500" y="32" font-size="14" text-anchor="middle" class="muted">gokul@dev: ~/mission-control</text>
-<line x1="0" y1="48" x2="1000" y2="48" stroke="#26374a"/>
-<rect x="25" y="70" width="585" height="170" rx="13" class="panel"/>
-<text x="47" y="99" font-size="14" class="green">● SYSTEM ONLINE <tspan class="muted">/ PROFILE OVERVIEW</tspan></text>
-<text x="47" y="147" font-size="33" font-weight="700">GOKUL R<tspan class="accent blink">_</tspan></text>
-<text x="47" y="178" font-size="17" class="muted">Software Engineering • AI • Security</text>
-<text x="47" y="214" font-size="14" class="green">VIT CHENNAI</text><text x="208" y="214" font-size="14" class="muted">|</text><text x="226" y="214" font-size="14">B.Tech CSE · 2028</text>
-<rect x="630" y="70" width="345" height="170" rx="13" class="panel"/>
-<text x="651" y="98" font-size="14" class="muted">LEARNING PATH / CURRENT FOCUS</text>
-<text x="651" y="134" font-size="17" class="accent">CLOUD OPERATIONS</text>
-<path d="M653 150 H948" stroke="#2a455c" stroke-width="3"/>
-<path d="M653 150 H745" stroke="#61dafb" stroke-width="3" class="slide"/>
-<text x="651" y="184" font-size="17" class="green">CLOUD SECURITY</text>
-<text x="651" y="214" font-size="13" class="muted">AWS · LINUX · NETWORKING · IAM</text>
-<rect x="25" y="258" width="950" height="75" rx="13" class="panel"/>
-<text x="47" y="282" font-size="13" class="muted">BUILD TRACKS</text>
-<g font-size="16"><text x="47" y="312" class="accent">01  FULL-STACK</text><text x="340" y="312" class="green">02  AI SYSTEMS</text><text x="624" y="312">03  CYBERSECURITY</text></g>
-<circle cx="936" cy="282" r="5" fill="#48e0a4" class="pulse"/>
+</defs>
+<rect width="1100" height="470" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="1098" height="468" rx="21" fill="none" stroke="#31536c"/>
+<circle cx="880" cy="240" r="210" fill="url(#glow)"/>
+<path d="M0 70H1100" stroke="#2b4961"/><circle cx="29" cy="35" r="7" fill="#fb7185"/><circle cx="53" cy="35" r="7" fill="#fbbf24"/><circle cx="77" cy="35" r="7" fill="#34d399"/>
+<text x="115" y="41" font-size="16" class="muted">gokul@github:~/mission-control</text><text x="1065" y="41" font-size="14" text-anchor="end" class="mint">● ONLINE</text>
+<rect x="25" y="92" width="655" height="235" rx="14" class="panel"/>
+<text x="49" y="125" font-size="15" class="mint">● PROFILE INITIALIZED</text>
+<text x="49" y="180" font-size="43" font-weight="bold">GOKUL R<tspan class="cyan blink">_</tspan></text>
+<text x="49" y="213" font-size="18" class="cyan">FULL-STACK  /  AI SYSTEMS  /  SECURITY</text>
+<text x="49" y="253" font-size="16" class="muted">B.Tech Computer Science Engineering</text>
+<text x="49" y="282" font-size="16">VIT CHENNAI <tspan class="muted">·</tspan> CLASS OF 2028</text>
+<path d="M49 307H646" stroke="#294d63" stroke-width="2" stroke-dasharray="7 8" class="dash"/>
+<rect x="702" y="92" width="373" height="235" rx="14" class="panel"/>
+<text x="725" y="123" font-size="15" class="cyan">SECURITY RADAR / EXPLORING</text>
+<circle cx="879" cy="242" r="94" fill="none" stroke="#1b5b68" stroke-width="2"/><circle cx="879" cy="242" r="64" fill="none" stroke="#1b5b68"/><circle cx="879" cy="242" r="34" fill="none" stroke="#1b5b68"/>
+<path d="M779 242H979M879 142V342" stroke="#1b5b68"/>
+<g class="spin"><path d="M879 242 L879 148 A94 94 0 0 1 973 242Z" fill="#34d399" fill-opacity=".19"/><path d="M879 242V148" stroke="#6ee7b7" stroke-width="3"/></g>
+<circle cx="830" cy="210" r="5" fill="#67e8f9" class="pulse"/><circle cx="922" cy="266" r="5" fill="#6ee7b7" class="pulse"/><circle cx="900" cy="185" r="4" fill="#fbbf24" class="pulse"/>
+<rect x="25" y="348" width="332" height="94" rx="13" class="panel"/><text x="47" y="379" font-size="14" class="muted">01 / BUILD</text><text x="47" y="411" font-size="21" class="cyan">FULL-STACK APPS</text>
+<rect x="380" y="348" width="332" height="94" rx="13" class="panel"/><text x="402" y="379" font-size="14" class="muted">02 / CREATE</text><text x="402" y="411" font-size="21" class="mint">AI-POWERED TOOLS</text>
+<rect x="735" y="348" width="340" height="94" rx="13" class="panel"/><text x="757" y="379" font-size="14" class="muted">03 / LEARN</text><text x="757" y="411" font-size="21">CLOUD SECURITY</text>
 </svg>
