@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Animated developer dashboard: Gokul R, software engineering, AI systems and cloud security learning">
+<style>
+text{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;fill:#e5edf8}.muted{fill:#8fa5be}.accent{fill:#61dafb}.green{fill:#48e0a4}.panel{fill:#121d2c;stroke:#293a4f;stroke-width:1}.pulse{animation:pulse 2.4s ease-in-out infinite}.blink{animation:blink 1s steps(2) infinite}.slide{animation:slide 5s ease-in-out infinite alternate}.flow{stroke-dasharray:7 9;animation:dash 2s linear infinite}@keyframes pulse{50%{opacity:.25}}@keyframes blink{50%{opacity:0}}@keyframes slide{to{transform:translateX(90px)}}@keyframes dash{to{stroke-dashoffset:-32}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="1000" height="360" rx="20" fill="#0b1220"/>
+<rect x="1" y="1" width="998" height="358" rx="19" fill="none" stroke="#2c3c53"/>
+<circle cx="30" cy="27" r="6" fill="#ff6675"/><circle cx="52" cy="27" r="6" fill="#ffcb65"/><circle cx="74" cy="27" r="6" fill="#48e0a4"/>
+<text x="500" y="32" font-size="14" text-anchor="middle" class="muted">gokul@dev: ~/mission-control</text>
+<line x1="0" y1="48" x2="1000" y2="48" stroke="#26374a"/>
+<rect x="25" y="70" width="585" height="170" rx="13" class="panel"/>
+<text x="47" y="99" font-size="14" class="green">● SYSTEM ONLINE <tspan class="muted">/ PROFILE OVERVIEW</tspan></text>
+<text x="47" y="147" font-size="33" font-weight="700">GOKUL R<tspan class="accent blink">_</tspan></text>
+<text x="47" y="178" font-size="17" class="muted">Software Engineering • AI • Security</text>
+<text x="47" y="214" font-size="14" class="green">VIT CHENNAI</text><text x="208" y="214" font-size="14" class="muted">|</text><text x="226" y="214" font-size="14">B.Tech CSE · 2028</text>
+<rect x="630" y="70" width="345" height="170" rx="13" class="panel"/>
+<text x="651" y="98" font-size="14" class="muted">LEARNING PATH / CURRENT FOCUS</text>
+<text x="651" y="134" font-size="17" class="accent">CLOUD OPERATIONS</text>
+<path d="M653 150 H948" stroke="#2a455c" stroke-width="3"/>
+<path d="M653 150 H745" stroke="#61dafb" stroke-width="3" class="slide"/>
+<text x="651" y="184" font-size="17" class="green">CLOUD SECURITY</text>
+<text x="651" y="214" font-size="13" class="muted">AWS · LINUX · NETWORKING · IAM</text>
+<rect x="25" y="258" width="950" height="75" rx="13" class="panel"/>
+<text x="47" y="282" font-size="13" class="muted">BUILD TRACKS</text>
+<g font-size="16"><text x="47" y="312" class="accent">01  FULL-STACK</text><text x="340" y="312" class="green">02  AI SYSTEMS</text><text x="624" y="312">03  CYBERSECURITY</text></g>
+<circle cx="936" cy="282" r="5" fill="#48e0a4" class="pulse"/>
+</svg>
