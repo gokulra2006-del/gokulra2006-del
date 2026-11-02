@@ -3,6 +3,8 @@
 # Gokul R
 ### `Software Developer • AI Builder • Cloud & Cybersecurity Learner`
 
+<img src="assets/developer-dashboard.svg" width="100%" alt="Animated developer dashboard showing Gokul's software engineering, AI, and cloud security learning focus" />
+
 **B.Tech Computer Science Engineering · VIT Chennai · Class of 2028**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-ramachandran-513299327/)
@@ -70,7 +72,7 @@ learning:
 goal: Build hands-on, documented projects and grow into cloud security roles
 ```
 
-## `❯ gh activity`
+## `❯ dashboard --activity`
 
 <div align="center">
 
@@ -80,7 +82,7 @@ goal: Build hands-on, documented projects and grow into cloud security roles
 
 </div>
 
-> GitHub's native profile displays the up-to-date contribution graph and activity. These links replace third-party statistics images that were failing to load.
+<sub>Activity links open GitHub's native, live contribution data. The animated header is a self-hosted visual dashboard, not a live metrics feed. Animations respect reduced-motion preferences.</sub>
 
 ## `❯ contact --open`
 
