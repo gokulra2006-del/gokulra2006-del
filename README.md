@@ -2,7 +2,7 @@
 
 # Gokul Ramachandran
 
-### Computer Science Student · Full-Stack Developer · Cloud & Cybersecurity Enthusiast
+### Software Developer · AI Builder · Cloud & Cybersecurity Learner
 
 <a href="https://github.com/gokulra2006-del">
   <img src="assets/developer-dashboard.svg" width="100%" alt="Gokul's developer dashboard" />
@@ -28,30 +28,38 @@
 
 ---
 
-## About me
+## Hello, I'm Gokul 👋
 
-I'm **Gokul**, a Computer Science student at **VIT Chennai** who enjoys turning ideas into reliable, usable products. I work across **full-stack development**, **AI-assisted applications**, and **security-oriented systems**, with a growing focus on cloud operations and cybersecurity.
+I'm a Computer Science student at **VIT Chennai** who enjoys turning ideas into practical, reliable products. My work sits at the intersection of **full-stack development**, **AI-assisted applications**, and **security-minded systems**.
 
 - Full-Stack Web Development Intern at **Incrix Techlutions LLP**
 - **2nd place** at the HackWarts Hackathon
-- Currently strengthening my foundations in **AWS, Linux, networking, Docker, automation, and cloud security**
-- Open to conversations about **software engineering, cloud, cybersecurity, and internship opportunities**
+- Building stronger foundations in **AWS, Linux, networking, Docker, automation, and cloud security**
+- Interested in **software engineering, cloud operations, cybersecurity, and impactful internships**
 
-> I believe the best way to learn is to build, document, and improve continuously.
+> My approach: build something useful, document what I learn, and keep improving it.
 
-## Selected projects
+## What I build
 
-| Project | What I built | Technologies |
+| Area | Focus |
+| :--- | :--- |
+| **Full-stack applications** | Responsive interfaces, APIs, authentication, databases, and complete user workflows |
+| **AI-powered tools** | Practical applications that use AI and computer vision to support real-world tasks |
+| **Security-oriented systems** | Emergency response, monitoring, incident workflows, and cloud-security fundamentals |
+
+## Featured projects
+
+| Project | Highlight | Stack |
 | :--- | :--- | :--- |
-| [**Organic Store**](https://github.com/gokulra2006-del/organic-store) | Full-stack e-commerce experience with authentication, cart, orders, and payments | React · Node.js · Express · MongoDB |
-| [**VigiloraAI**](https://github.com/gokulra2006-del/VigiloraAI) | AI-assisted visual monitoring and incident-management platform | React · FastAPI · Python · Computer Vision |
+| [**Organic Store**](https://github.com/gokulra2006-del/organic-store) | Full-stack e-commerce with authentication, cart, orders, and payments | React · Node.js · Express · MongoDB |
+| [**VigiloraAI**](https://github.com/gokulra2006-del/VigiloraAI) | AI-assisted visual monitoring and incident management | React · FastAPI · Python · Computer Vision |
 | [**Crisis Alert System**](https://github.com/gokulra2006-del/Alert-System) | Emergency SOS, incident mapping, and role-based dashboards | React · TypeScript · Firebase |
-| [**CodeReview AI**](https://github.com/gokulra2006-del/codereview-ai) | A project exploring AI-assisted code review workflows | React · Vite |
-| [**AI MSME Compliance Assistant**](https://github.com/gokulra2006-del/ai-msme-compliance-assistant) | An applied AI workflow for exploring compliance support | AI · Applied Software |
+| [**CodeReview AI**](https://github.com/gokulra2006-del/codereview-ai) | AI-assisted code-review workflow exploration | React · Vite |
+| [**AI MSME Compliance Assistant**](https://github.com/gokulra2006-del/ai-msme-compliance-assistant) | Applied AI workflow for compliance support | AI · Applied Software |
 
-[**Browse all repositories →**](https://github.com/gokulra2006-del?tab=repositories)
+[**Explore all repositories →**](https://github.com/gokulra2006-del?tab=repositories)
 
-## Technical toolkit
+## Tech stack
 
 <div align="center">
 
@@ -69,24 +77,24 @@ I'm **Gokul**, a Computer Science student at **VIT Chennai** who enjoys turning 
 
 </div>
 
-## Current learning focus
+## Current direction
 
 ```yaml
-direction: Full-Stack Engineering → Cloud Operations → Cloud Security
+path: Full-Stack Engineering → Cloud Operations → Cloud Security
 
-focus:
-  - Linux administration and networking fundamentals
+learning:
+  - Linux administration and networking
   - AWS core services, IAM, and cloud networking
   - Security monitoring, logging, and incident response
   - Python and Bash automation
   - Docker, CI/CD, and infrastructure fundamentals
 
-goal: Build practical, well-documented systems and grow into security-minded cloud roles
+goal: Build practical systems and grow into security-minded cloud roles
 ```
 
 ## Let's connect
 
-I'm always happy to connect about **internships, engineering projects, open-source work, and learning opportunities**.
+I'm open to conversations about **internships, engineering projects, open-source work, and learning opportunities**.
 
 - **LinkedIn:** [Gokul Ramachandran](https://www.linkedin.com/in/gokul-ramachandran-513299327/)
 - **Email:** [gokulra2006@gmail.com](mailto:gokulra2006@gmail.com)
