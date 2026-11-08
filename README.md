@@ -2,109 +2,104 @@
 
 # Gokul Ramachandran
 
-### Software Developer · AI Builder · Cloud & Cybersecurity Learner
-
-<a href="https://github.com/gokulra2006-del">
-  <img src="assets/developer-dashboard.svg" width="100%" alt="Gokul's developer dashboard" />
-</a>
+### Building software today. Securing systems tomorrow.
 
 <p>
-  <strong>B.Tech Computer Science Engineering · VIT Chennai · Class of 2028</strong>
+  <strong>Computer Science Engineering student at VIT Chennai · Class of 2028</strong>
 </p>
 
-<a href="https://www.linkedin.com/in/gokul-ramachandran-513299327/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:gokulra2006@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/gokulra2006-del/Portffolio">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-</a>
+<img src="assets/developer-dashboard.svg" width="100%" alt="Gokul's developer dashboard" />
 
-<p><em>Building useful software, exploring intelligent systems, and learning to secure the cloud.</em></p>
+<p>
+  <a href="https://www.linkedin.com/in/gokul-ramachandran-513299327/">LinkedIn</a>
+  ·
+  <a href="https://github.com/gokulra2006-del/Portffolio">Portfolio</a>
+  ·
+  <a href="mailto:gokulra2006@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## Hello, I'm Gokul 👋
+## A little about me
 
-I'm a Computer Science student at **VIT Chennai** who enjoys turning ideas into practical, reliable products. My work sits at the intersection of **full-stack development**, **AI-assisted applications**, and **security-minded systems**.
+Hi, I'm **Gokul** 👋
 
-- Full-Stack Web Development Intern at **Incrix Techlutions LLP**
-- **2nd place** at the HackWarts Hackathon
-- Building stronger foundations in **AWS, Linux, networking, Docker, automation, and cloud security**
-- Interested in **software engineering, cloud operations, cybersecurity, and impactful internships**
+I'm a developer who enjoys building practical products at the intersection of **full-stack engineering, AI, and cybersecurity**. I like taking an idea from a rough concept to a working application—and then improving it through better UX, cleaner code, and stronger system design.
 
-> My approach: build something useful, document what I learn, and keep improving it.
+- 🧑‍💻 Full-Stack Web Development Intern at **Incrix Techlutions LLP**
+- 🏆 **2nd place** at the HackWarts Hackathon
+- ☁️ Exploring **AWS, Linux, networking, Docker, and cloud security**
+- 🎯 Looking for opportunities in **software engineering, cloud, and cybersecurity**
 
-## What I build
+> Build with purpose. Learn in public. Improve every day.
 
-| Area | Focus |
-| :--- | :--- |
-| **Full-stack applications** | Responsive interfaces, APIs, authentication, databases, and complete user workflows |
-| **AI-powered tools** | Practical applications that use AI and computer vision to support real-world tasks |
-| **Security-oriented systems** | Emergency response, monitoring, incident workflows, and cloud-security fundamentals |
-
-## Featured projects
-
-| Project | Highlight | Stack |
-| :--- | :--- | :--- |
-| [**Organic Store**](https://github.com/gokulra2006-del/organic-store) | Full-stack e-commerce with authentication, cart, orders, and payments | React · Node.js · Express · MongoDB |
-| [**VigiloraAI**](https://github.com/gokulra2006-del/VigiloraAI) | AI-assisted visual monitoring and incident management | React · FastAPI · Python · Computer Vision |
-| [**Crisis Alert System**](https://github.com/gokulra2006-del/Alert-System) | Emergency SOS, incident mapping, and role-based dashboards | React · TypeScript · Firebase |
-| [**CodeReview AI**](https://github.com/gokulra2006-del/codereview-ai) | AI-assisted code-review workflow exploration | React · Vite |
-| [**AI MSME Compliance Assistant**](https://github.com/gokulra2006-del/ai-msme-compliance-assistant) | Applied AI workflow for compliance support | AI · Applied Software |
-
-[**Explore all repositories →**](https://github.com/gokulra2006-del?tab=repositories)
-
-## Tech stack
+## Things I build
 
 <div align="center">
 
-**Languages & frontend**
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,tailwind&perline=9" alt="JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, Tailwind" />
-
-**Backend, databases & tools**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8" alt="Node.js, Express, MongoDB, MySQL, Git, GitHub, VS Code, Linux" />
-
-**Currently exploring**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,bash&perline=3" alt="AWS, Docker, Bash" />
+| 🛠️ Full-stack products | 🤖 Intelligent tools | 🛡️ Security-minded systems |
+| :---: | :---: | :---: |
+| User-focused web apps, APIs, authentication, and databases | AI-assisted workflows and computer-vision applications | Monitoring, incident response, emergency systems, and cloud-security foundations |
 
 </div>
 
-## Current direction
+## Featured work
 
-```yaml
-path: Full-Stack Engineering → Cloud Operations → Cloud Security
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| [**Organic Store**](https://github.com/gokulra2006-del/organic-store) | Complete e-commerce experience with cart, orders, authentication, and payments | React · Node.js · Express · MongoDB |
+| [**VigiloraAI**](https://github.com/gokulra2006-del/VigiloraAI) | Visual monitoring and incident management with AI assistance | React · FastAPI · Python · Computer Vision |
+| [**Crisis Alert System**](https://github.com/gokulra2006-del/Alert-System) | Emergency SOS, incident mapping, and role-based dashboards | React · TypeScript · Firebase |
+| [**CodeReview AI**](https://github.com/gokulra2006-del/codereview-ai) | An exploration of AI-assisted code review | React · Vite |
+| [**AI MSME Compliance Assistant**](https://github.com/gokulra2006-del/ai-msme-compliance-assistant) | An applied AI workflow for compliance support | AI · Applied Software |
 
-learning:
-  - Linux administration and networking
-  - AWS core services, IAM, and cloud networking
-  - Security monitoring, logging, and incident response
-  - Python and Bash automation
-  - Docker, CI/CD, and infrastructure fundamentals
+<p align="center">
+  <a href="https://github.com/gokulra2006-del?tab=repositories">View all repositories →</a>
+</p>
 
-goal: Build practical systems and grow into security-minded cloud roles
+## Tools I use
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,tailwind,nodejs,express,mongodb,mysql,git,github,linux&perline=8" alt="JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, Tailwind, Node.js, Express, MongoDB, MySQL, Git, GitHub, Linux" />
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=aws,docker,bash&perline=3" alt="AWS, Docker, Bash" />
+
+<p><em>Currently exploring cloud operations, automation, and security engineering.</em></p>
+
+</div>
+
+## What I'm learning now
+
+```text
+Full-Stack Engineering  →  Cloud Operations  →  Cloud Security
+
+Linux & networking        AWS & IAM
+Security monitoring       Python & Bash automation
+Docker & CI/CD            Infrastructure fundamentals
 ```
 
 ## Let's connect
 
-I'm open to conversations about **internships, engineering projects, open-source work, and learning opportunities**.
+If you're interested in **building useful products, cloud technology, cybersecurity, or student opportunities**, I'd be happy to connect.
 
-- **LinkedIn:** [Gokul Ramachandran](https://www.linkedin.com/in/gokul-ramachandran-513299327/)
-- **Email:** [gokulra2006@gmail.com](mailto:gokulra2006@gmail.com)
-- **GitHub:** [@gokulra2006-del](https://github.com/gokulra2006-del)
-- **Portfolio:** [View my portfolio](https://github.com/gokulra2006-del/Portffolio)
+<p align="center">
+  <a href="mailto:gokulra2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gokulra2006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Gokul" />
+  </a>
+  <a href="https://www.linkedin.com/in/gokul-ramachandran-513299327/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gokul%20Ramachandran-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Gokul on LinkedIn" />
+  </a>
+</p>
 
 <div align="center">
 
 ---
 
-*Learn. Build. Secure. Improve.*
+<sub>Learn · Build · Secure · Improve</sub>
 
 </div>
