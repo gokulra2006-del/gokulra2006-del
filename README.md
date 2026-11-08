@@ -1,55 +1,65 @@
 <div align="center">
 
-# Gokul R
-### `Software Developer • AI Builder • Cloud & Cybersecurity Learner`
+# Gokul Ramachandran
 
-<img src="assets/developer-dashboard.svg" width="100%" alt="Animated developer dashboard showing Gokul's software engineering, AI, and cloud security learning focus" />
+### Computer Science Student · Full-Stack Developer · Cloud & Cybersecurity Enthusiast
 
-**B.Tech Computer Science Engineering · VIT Chennai · Class of 2028**
+<a href="https://github.com/gokulra2006-del">
+  <img src="assets/developer-dashboard.svg" width="100%" alt="Gokul's developer dashboard" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gokul-ramachandran-513299327/)
-[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulra2006@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulra2006-del/Portffolio)
+<p>
+  <strong>B.Tech Computer Science Engineering · VIT Chennai · Class of 2028</strong>
+</p>
 
-*Building useful software, exploring intelligent systems, and learning to secure the cloud.*
+<a href="https://www.linkedin.com/in/gokul-ramachandran-513299327/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:gokulra2006@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/gokulra2006-del/Portffolio">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+
+<p><em>Building useful software, exploring intelligent systems, and learning to secure the cloud.</em></p>
 
 </div>
 
 ---
 
-## `❯ whoami`
+## About me
 
-I'm **Gokul**, a Computer Science student at **VIT Chennai** who enjoys turning ideas into working applications. My projects span **full-stack web development**, **AI-assisted tools**, and **security-oriented systems**.
+I'm **Gokul**, a Computer Science student at **VIT Chennai** who enjoys turning ideas into reliable, usable products. I work across **full-stack development**, **AI-assisted applications**, and **security-oriented systems**, with a growing focus on cloud operations and cybersecurity.
 
-- **Experience:** Full-Stack Web Development internship at Incrix Techlutions LLP.
-- **Recognition:** 2nd place at HackWarts Hackathon.
-- **Exploring:** AWS fundamentals, cloud operations, cloud security, cybersecurity and system design.
-- **Interested in:** Software engineering, cloud support/operations and security-focused internship opportunities.
+- Full-Stack Web Development Intern at **Incrix Techlutions LLP**
+- **2nd place** at the HackWarts Hackathon
+- Currently strengthening my foundations in **AWS, Linux, networking, Docker, automation, and cloud security**
+- Open to conversations about **software engineering, cloud, cybersecurity, and internship opportunities**
 
-> I value practical projects, readable code, clear documentation and continuous learning.
+> I believe the best way to learn is to build, document, and improve continuously.
 
-## `❯ ls ~/featured-projects`
+## Selected projects
 
-| Project | What it explores | Stack / focus |
+| Project | What I built | Technologies |
 | :--- | :--- | :--- |
-| [**Organic Store**](https://github.com/gokulra2006-del/organic-store) | Full-stack e-commerce with authentication, cart, orders and payments | React · Node.js · Express · MongoDB |
-| [**VigiloraAI**](https://github.com/gokulra2006-del/VigiloraAI) | AI-assisted visual monitoring and incident management | React · FastAPI · Python · Computer Vision |
-| [**Crisis Alert System**](https://github.com/gokulra2006-del/Alert-System) | Emergency SOS, incident mapping and role-based dashboards | React · TypeScript · Firebase |
-| [**CodeReview AI**](https://github.com/gokulra2006-del/codereview-ai) | Code-review assistant project | React · Vite |
-| [**AI MSME Compliance Assistant**](https://github.com/gokulra2006-del/ai-msme-compliance-assistant) | AI-assisted compliance workflow exploration | AI · Applied Software |
-| [**Portfolio**](https://github.com/gokulra2006-del/Portffolio) | Personal portfolio project | Web Development |
+| [**Organic Store**](https://github.com/gokulra2006-del/organic-store) | Full-stack e-commerce experience with authentication, cart, orders, and payments | React · Node.js · Express · MongoDB |
+| [**VigiloraAI**](https://github.com/gokulra2006-del/VigiloraAI) | AI-assisted visual monitoring and incident-management platform | React · FastAPI · Python · Computer Vision |
+| [**Crisis Alert System**](https://github.com/gokulra2006-del/Alert-System) | Emergency SOS, incident mapping, and role-based dashboards | React · TypeScript · Firebase |
+| [**CodeReview AI**](https://github.com/gokulra2006-del/codereview-ai) | A project exploring AI-assisted code review workflows | React · Vite |
+| [**AI MSME Compliance Assistant**](https://github.com/gokulra2006-del/ai-msme-compliance-assistant) | An applied AI workflow for exploring compliance support | AI · Applied Software |
 
-[**Explore all repositories →**](https://github.com/gokulra2006-del?tab=repositories)
+[**Browse all repositories →**](https://github.com/gokulra2006-del?tab=repositories)
 
-## `❯ cat tech-stack.md`
+## Technical toolkit
 
 <div align="center">
 
-**Languages & web development**
+**Languages & frontend**
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,tailwind&perline=9" alt="JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, Tailwind" />
 
-**Backend, databases & developer tools**
+**Backend, databases & tools**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,linux&perline=8" alt="Node.js, Express, MongoDB, MySQL, Git, GitHub, VS Code, Linux" />
 
@@ -59,38 +69,29 @@ I'm **Gokul**, a Computer Science student at **VIT Chennai** who enjoys turning 
 
 </div>
 
-## `❯ cat learning-roadmap.yml`
+## Current learning focus
 
 ```yaml
-focus: Cloud Operations → Cloud Security
-learning:
+direction: Full-Stack Engineering → Cloud Operations → Cloud Security
+
+focus:
   - Linux administration and networking fundamentals
-  - AWS core services, IAM and cloud networking
-  - Security monitoring, logging and incident response
-  - Python and Bash for automation
-  - Docker, CI/CD and infrastructure fundamentals
-goal: Build hands-on, documented projects and grow into cloud security roles
+  - AWS core services, IAM, and cloud networking
+  - Security monitoring, logging, and incident response
+  - Python and Bash automation
+  - Docker, CI/CD, and infrastructure fundamentals
+
+goal: Build practical, well-documented systems and grow into security-minded cloud roles
 ```
 
-## `❯ dashboard --activity`
+## Let's connect
 
-<div align="center">
-
-[![GitHub Profile](https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulra2006-del)
-[![Repositories](https://img.shields.io/badge/Explore-Public_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulra2006-del?tab=repositories)
-[![Contributions](https://img.shields.io/badge/View-Contribution_Activity-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokulra2006-del?tab=overview)
-
-</div>
-
-<sub>Activity links open GitHub's native, live contribution data. The animated header is a self-hosted visual dashboard, not a live metrics feed. Animations respect reduced-motion preferences.</sub>
-
-## `❯ contact --open`
-
-I'm happy to connect about **internships, engineering projects, and learning opportunities**.
+I'm always happy to connect about **internships, engineering projects, open-source work, and learning opportunities**.
 
 - **LinkedIn:** [Gokul Ramachandran](https://www.linkedin.com/in/gokul-ramachandran-513299327/)
 - **Email:** [gokulra2006@gmail.com](mailto:gokulra2006@gmail.com)
 - **GitHub:** [@gokulra2006-del](https://github.com/gokulra2006-del)
+- **Portfolio:** [View my portfolio](https://github.com/gokulra2006-del/Portffolio)
 
 <div align="center">
 
